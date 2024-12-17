@@ -1,0 +1,8 @@
+{
+  "name": "Test Playlist",
+  "description": "Test Playlist Description",
+  "tracks": [
+    "FNTemplate/filename1",
+    "FNTemplate/filename2"
+  ]
+}
