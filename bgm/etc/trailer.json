@@ -1,0 +1,34 @@
+[
+
+  {
+    "description": "Used in 'Fortnite Experience Trailer'",
+    "filename": "EcstaticSteps",
+    "mark": "missing",
+    "metadata": {
+      "albumArtist": "Various Artists",
+      "artist": "Bustafunk",
+      "title": "Ecstatic Steps",
+      "year": "2013"
+    },
+    "source": {
+      "structure": "Trailer"
+    },
+    "youtube": "gD8DYVmA6FI"
+  },
+  {
+    "description": "Used in 'FORTNITE SEASON 5 | ANNOUNCE TRAILER'",
+    "filename": "Blastoffff",
+    "mark": "missing",
+    "metadata": {
+      "albumArtist": "Joywave",
+      "artist": "Joywave",
+      "title": "Blastoffff ",
+      "year": "2018"
+    },
+    "source": {
+      "client": "YT",
+      "structure": "Trailer"
+    },
+    "youtube": "qSid2ulDL2Q"
+  }
+]

@@ -1,0 +1,39 @@
+[
+
+  {
+    "description": "Login Screen before v3.00",
+    "filename": "fortnite_login_screen",
+    "mark": "missing",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Rom Di Prisco",
+      "title": "Login Screen",
+      "year": "2014"
+    },
+    "source": {
+      "client": "STW",
+      "structure": "UI",
+      "date": "2014",
+      "version": "Online Test"
+    },
+    "youtube": "g-I0l-LH77s"
+  },
+  {
+    "description": "Combat track during mission",
+    "filename": "fort_action_high_layer",
+    "mark": "missing",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Action High Layer",
+      "year": "2014"
+    },
+    "source": {
+        "client": "STW",
+        "structure": "Combat",
+        "date": "2014",
+        "version": "Online Test"
+    },
+    "youtube": "F6zJ2urQQWc"
+  }
+]

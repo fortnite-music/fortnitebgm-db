@@ -13,6 +13,10 @@
           "minorTrack": {
             "description": "Track is a segment of another song",
             "type": "boolean"
+          },
+          "promoTrack": {
+            "description": "Track is from outside the game itself",
+            "type": "boolean"
           }
         }
       },
