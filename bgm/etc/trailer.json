@@ -3,7 +3,7 @@
   {
     "description": "Used in 'Fortnite Experience Trailer'",
     "filename": "EcstaticSteps",
-    "mark": "missing",
+    "mark": "video",
     "metadata": {
       "albumArtist": "Various Artists",
       "artist": "Bustafunk",
@@ -11,14 +11,16 @@
       "year": "2013"
     },
     "source": {
-      "structure": "Trailer"
+      "client": "YT",
+      "structure": "Trailer",
+      "date": "2014-12-01"
     },
     "youtube": "gD8DYVmA6FI"
   },
   {
     "description": "Used in 'FORTNITE SEASON 5 | ANNOUNCE TRAILER'",
     "filename": "JoywaveBlastoffff",
-    "mark": "missing",
+    "mark": "video",
     "metadata": {
       "albumArtist": "Joywave",
       "artist": "Joywave",
@@ -27,7 +29,8 @@
     },
     "source": {
       "client": "YT",
-      "structure": "Trailer"
+      "structure": "Trailer",
+      "date": "2018-07-12"
     },
     "youtube": "qSid2ulDL2Q"
   }
