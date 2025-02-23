@@ -1,9 +1,8 @@
 [
-
   {
     "description": "Used in 'Fortnite Experience Trailer'",
     "filename": "EcstaticSteps",
-    "mark": "video",
+    "mark": "media",
     "metadata": {
       "albumArtist": "Various Artists",
       "artist": "Bustafunk",
@@ -20,7 +19,7 @@
   {
     "description": "Used in 'FORTNITE SEASON 5 | ANNOUNCE TRAILER'",
     "filename": "JoywaveBlastoffff",
-    "mark": "video",
+    "mark": "media",
     "metadata": {
       "albumArtist": "Joywave",
       "artist": "Joywave",

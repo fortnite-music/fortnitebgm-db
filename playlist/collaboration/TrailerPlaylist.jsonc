@@ -1,8 +1,8 @@
 {
   "name": "Trailer Music",
-  "description": "Tempalte for extra playlist",
+  "description": "Music used in trailers",
   "tracks": [
-    "etcTemplate/Joywave - Blastoffff",
-    "etcTemplate/filename4"
+    "trailer/JoywaveBlastoffff",
+    "trailer/EcstaticSteps"
   ]
 }

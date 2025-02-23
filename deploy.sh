@@ -29,4 +29,7 @@ if [ $changed -ne 0 ]; then
     git_push
 else
     echo "No change in files"
+    yarn merge
+    git_commit
+    git_push
 fi
