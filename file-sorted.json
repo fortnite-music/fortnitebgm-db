@@ -18,6 +18,42 @@
     "youtube": "qA6hIlQob6A"
   },
   {
+    "description": "Viewing mission rewards",
+    "filename": "fort_rewardscreen_Music_Intro",
+    "mark": "alpha",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Rom Di Prisco",
+      "title": "Reward Screen",
+      "year": "2016"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2016-07-25",
+      "structure": "UI",
+      "version": "Online Test 8"
+    },
+    "youtube": "OMPEPoQZch8"
+  },
+  {
+    "description": "viewing mission rewards",
+    "filename": "fort_rewardscreen_Music_SecondLoopFix",
+    "mark": "alpha",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Rom Di Prisco",
+      "title": "Reward Screen (Second Loop)",
+      "year": "2016"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2016-07-25",
+      "structure": "UI",
+      "version": "Online Test 8"
+    },
+    "youtube": "EDSiv7Ufa9E"
+  },
+  {
     "description": "Viewing Squads or Skill Tree",
     "filename": "fortnite_daytime_music_positive_one",
     "mark": "alpha",
@@ -124,42 +160,6 @@
       "version": "Online Test 6"
     },
     "youtube": "OVV2Kd3mehA"
-  },
-  {
-    "description": "Viewing mission rewards",
-    "filename": "fort_rewardscreen_Music_Intro",
-    "mark": "alpha",
-    "metadata": {
-      "albumArtist": "Epic Games",
-      "artist": "Rom Di Prisco",
-      "title": "Reward Screen",
-      "year": "2016"
-    },
-    "source": {
-      "client": "STW",
-      "date": "2016-07-25",
-      "structure": "UI",
-      "version": "Online Test 8"
-    },
-    "youtube": "OMPEPoQZch8"
-  },
-  {
-    "description": "viewing mission rewards",
-    "filename": "fort_rewardscreen_Music_SecondLoopFix",
-    "mark": "alpha",
-    "metadata": {
-      "albumArtist": "Epic Games",
-      "artist": "Rom Di Prisco",
-      "title": "Reward Screen (Second Loop)",
-      "year": "2016"
-    },
-    "source": {
-      "client": "STW",
-      "date": "2016-07-25",
-      "structure": "UI",
-      "version": "Online Test 8"
-    },
-    "youtube": "EDSiv7Ufa9E"
   },
   {
     "description": "Viewing Loot Llamas",

@@ -2,7 +2,7 @@
   "name": "Trailer Music",
   "description": "Music used in trailers",
   "tracks": [
-    "trailer/JoywaveBlastoffff",
-    "trailer/EcstaticSteps"
+    "Trailer/JoywaveBlastoffff",
+    "Trailer/EcstaticSteps"
   ]
 }

@@ -2,16 +2,16 @@
   "name": "OG Tracks",
   "description": "Every song that references the 'Fortnite' motif",
   "tracks": [
-    "OT/fortnite_daytime_music_positive_one",
-    "OT/fortnite_daytime_music_positive_two",
-    "OT/fortnite_homebase_music_loop",
-    "OT/fortnite_login_screen",
-    "OT/fortnite_onboarding_cave_music",
-    "OT/llamaopen",
-    "OT/onboarding_high_combat_loop",
-    "OT/onboarding_intro_TEMP_CINE_introrender",
-    "OT/onboarding_rocket_room_loop",
-    "OT/rocket_tension_loop",
-    "OT/vindertech store v2"
+    "STW/fortnite_daytime_music_positive_one",
+    "STW/fortnite_daytime_music_positive_two",
+    "STW/fortnite_homebase_music_loop",
+    "STW/fortnite_login_screen",
+    "STW/fortnite_onboarding_cave_music",
+    "STW/llamaopen",
+    "STW/onboarding_high_combat_loop",
+    "STW/onboarding_intro_TEMP_CINE_introrender",
+    "STW/onboarding_rocket_room_loop",
+    "STW/rocket_tension_loop",
+    "STW/vindertech store v2"
   ]
 }
