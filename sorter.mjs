@@ -22,7 +22,7 @@ import fs from 'fs';
           const OT = JSON.parse(fs.readFileSync(filepath))
           
           OT.sort((entry1, entry2) =>
-            entry1.filename.localeCompare(entry2.filename))
+            entry1.filename.localeCompare(entry2.filename, 'en', { ignorePunctuation: true }));
           
           fs.writeFileSync('file-sorted.json', JSON.stringify(OT, null, 2));
           console.log('Successfully sorted json')

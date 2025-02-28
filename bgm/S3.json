@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Lobby Music from Season 3 to Chapter 3 Season 1",
+    "filename": "BR_Lobby_Music_Loop",
+    "mark": "s3",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Lobby Classic",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "O2bnHN-GtM0"
+  }
+]

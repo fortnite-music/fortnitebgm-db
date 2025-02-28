@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Christmas lobby music",
+    "filename": "Holiday_Lobby_Music_2017",
+    "mark": "s2",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Holiday Lobby",
+      "year": "2017"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2017-12-13",
+      "structure": "UI",
+      "version": "1.11"
+    },
+    "youtube": "tg28s2id5CA"
+  },
+  {
+    "description": "Christmas Battle Bus music",
+    "filename": "SFX_Bus_Flying_XmasMusic_Loop",
+    "mark": "s2",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Christmas Battle Bus",
+      "year": "2017"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2017-12-13",
+      "structure": "Extra",
+      "version": "1.11"
+    },
+    "youtube": "5sniVv8_qXE"
+  }
+]

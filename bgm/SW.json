@@ -1,0 +1,272 @@
+[
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_High_Threat_Main_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "High Combat (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "BjEMO63m7dE"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_High_Threat_StctPerc_Short_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "High Combat (Short, Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "ckVB6uBeWLM"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_Low_Threat_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Low Combat (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "5tOYc2HEPRo"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_Med_Threat_Alt_01_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Medium Combat (Alt 1, Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "vAGW6iG-vsY"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_Med_Threat_Alt_02_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Medium Combat (Alt 2, Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "aZB0SC7xelE"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_Med_Threat_Alt_03_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Medium Combat (Alt 3, Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "gK0f6dA3IEM"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_Med_Threat_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Medium Combat (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "X0SBg6gHuGk"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_Med_Threat_Subdued_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Medium Combat (Subdued, Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "FAON5n9Ecj0"
+  },
+  {
+    "description": "Stonewood Combat",
+    "filename": "Combat_Very_High_Threat_Main_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Very High Combat (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "WbM8aNTAHag"
+  },
+  {
+    "description": "Stonewood Exploration",
+    "filename": "Exploring_Dawn_Morning_V2_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Morning Exploration (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "I3PRrzcmWVw"
+  },
+  {
+    "description": "Stonewood Exploration",
+    "filename": "Exploring_Day_V2_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Day Exploration (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "m-6f-1f64N0"
+  },
+  {
+    "description": "Stonewood Exploration",
+    "filename": "Exploring_DuskLoop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Dusk Exploration (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "4TxzgRHa5n4"
+  },
+  {
+    "description": "Stonewood Exploration",
+    "filename": "Exploring_General_Day_V2_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Day Exploration (Alt, Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "BFkaQZ0pYDE"
+  },
+  {
+    "description": "Stonewood Exploration",
+    "filename": "Exploring_Night_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Night Exploration (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "ONkEEHzehWE"
+  },
+  {
+    "description": "Stonewood Exploration",
+    "filename": "Exploring_Rural_Day_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Rural Exploration (Stonewood)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "OYFRYwVVo6E"
+  }
+]

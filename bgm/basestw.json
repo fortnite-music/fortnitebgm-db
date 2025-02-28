@@ -1,0 +1,434 @@
+[
+  {
+    "description": "Lars Tracks",
+    "filename": "Ballad_Mix_01",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Ballad Mix",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-03-28",
+      "structure": "Extra",
+      "version": "3.4.0"
+    },
+    "youtube": "FflppUXaoDQ"
+  },
+  {
+    "description": "Lars Van",
+    "filename": "Commuting_in_the_Clouds_InTheVan_FullMix_02Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Commuting in the Clouds",
+      "year": "2017"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2017-10-17",
+      "structure": "Extra",
+      "version": "1.7.2"
+    },
+    "youtube": "n9J7aT11vxk"
+  },
+  {
+    "description": "Getting downed in mission",
+    "filename": "Defeat_Dying_DBNO_Main_Alt_80BPM_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Defeat / DBNO",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Combat",
+      "version": "3.0.0"
+    },
+    "youtube": "hE5DUeZiWA4"
+  },
+  {
+    "description": "Queueing into mission",
+    "filename": "Enter_Lobby_Main_V1_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Lobby (New)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "O0djcXod5Zo"
+  },
+  {
+    "description": "Login Theme from Season 3 to Chapter 3 Season 1",
+    "filename": "FN_Login_Remix_02_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Login Screen (New)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "WByxla3PMDU"
+  },
+  {
+    "description": "Viewing Homebase",
+    "filename": "FN_Main_Menu_V2_Full_Suite_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Homebase (New)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "XQqfT_1SHww"
+  },
+  {
+    "description": "Finishing Mission",
+    "filename": "FN_Victory_Menu_Screen_Short_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Victory",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Extra",
+      "version": "3.0.0"
+    },
+    "youtube": "KpH958z4eTs"
+  },
+  {
+    "description": "Exploring Storm Shield",
+    "filename": "Fort_Building_Day_Main_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Building Day",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "cFi-Wu0s56s"
+  },
+  {
+    "description": "Exploring Storm Shield",
+    "filename": "Fort_Building_Outpost_Main_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Building Outpost",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "Area",
+      "version": "3.0.0"
+    },
+    "youtube": "kpEL5rF02zE"
+  },
+  {
+    "description": "Quest",
+    "filename": "Fort_Music_Bourree_All",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Hexsylvania Bouree",
+      "year": "2017"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2017-12-06",
+      "structure": "Extra",
+      "version": "1.10"
+    },
+    "youtube": "a4UNhxPsmA8"
+  },
+  {
+    "description": "Lars Tracks",
+    "filename": "Heavy_Rock_Mix_01",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Heavy Rock Track",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-03-28",
+      "structure": "Extra",
+      "version": "3.4.0"
+    },
+    "youtube": "9YYJu-hNN7k"
+  },
+  {
+    "description": "Lars Tracks",
+    "filename": "Lars_Bass_Friend_Track_Mix_01",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Lars Bass Friend Track",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-03-28",
+      "structure": "Extra",
+      "version": "3.4.0"
+    },
+    "youtube": "ksDPY3d75tI"
+  },
+  {
+    "description": "Lars Tracks",
+    "filename": "Lars_The_Valkyries_Ride_03",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "The Valkyries Ride",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-03-28",
+      "structure": "Extra",
+      "version": "3.4.0"
+    },
+    "youtube": "66FbYNvVvWc"
+  },
+  {
+    "description": "Viewing Event Store or V-Bucks Store",
+    "filename": "Menu_Buy_V-BucksLoop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Vindertech Store (New)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "vjJwuVKsFU0"
+  },
+  {
+    "description": "Opening Loot Llamas",
+    "filename": "Menu_Lama_RewardsLoop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Llama Rewards (New)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "t6SNb6P_OY"
+  },
+  {
+    "description": "Mode Select from Season 3 to Chapter 3 Season 1",
+    "filename": "Menu_Launch_Screen_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Mode Select",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "kLE0YePjC1g"
+  },
+  {
+    "description": "Viewing Loot Llamas",
+    "filename": "Menu_Store_CardpackLoop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Loot Llama (New)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "lENeqgDuNW4"
+  },
+  {
+    "description": "Reward screen",
+    "filename": "Menu_Update_ScreenLoop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Update",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "THKC9L4xJXc"
+  },
+  {
+    "description": "Starting Atlas Mission",
+    "filename": "Mission_Atlas_Started_100BPM",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Atlas Mission (Start)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "tBuCNC02deg"
+  },
+  {
+    "description": "Winning Atlas Mission",
+    "filename": "Mission_Atlas_Suceeding_100BPM",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Atlas Mission (Succeeding)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "sxxMG7eZks0"
+  },
+  {
+    "description": "Starting Mission",
+    "filename": "Mission_Generic_Starting_120BPM_Main_Loop",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Starting Mission",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-02-21",
+      "structure": "UI",
+      "version": "3.0.0"
+    },
+    "youtube": "ZGtAxuvgacQ"
+  },
+  {
+    "description": "Lars Tracks",
+    "filename": "Prog_Metal_Track_Mix_01",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Progressive Metal Track",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-03-28",
+      "structure": "Extra",
+      "version": "3.4.0"
+    },
+    "youtube": "BVNsQruJf20"
+  },
+  {
+    "description": "Lars Tracks",
+    "filename": "Rock-02_wSolo_Track_Mix_01",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Rock Solo",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-03-28",
+      "structure": "Extra",
+      "version": "3.4.0"
+    },
+    "youtube": "gOGrmfKoKNo"
+  },
+  {
+    "description": "Lars Tracks",
+    "filename": "Rock_Track_Mix_01",
+    "mark": "base",
+    "metadata": {
+      "albumArtist": "Epic Games",
+      "artist": "Epic Games",
+      "title": "Rock Track",
+      "year": "2018"
+    },
+    "source": {
+      "client": "STW",
+      "date": "2018-03-28",
+      "structure": "Extra",
+      "version": "3.4.0"
+    },
+    "youtube": "sNqq8sLiELQ"
+  }
+]

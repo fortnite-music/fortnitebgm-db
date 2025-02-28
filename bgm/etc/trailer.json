@@ -1,5 +1,39 @@
 [
   {
+    "description": "Used in 'The Fortnite Show Episode 2: Alpha Liftoff'",
+    "filename": "BlueShadesRemix",
+    "mark": "media",
+    "metadata": {
+      "albumArtist": "Various Artists",
+      "artist": "Eric Goldman, John Rekevics",
+      "title": "Gold Shades (Remix)",
+      "year": "2014"
+    },
+    "source": {
+      "client": "YT",
+      "structure": "Trailer",
+      "date": "2014-12-18"
+    },
+    "youtube": "QdI_C52U6Yc"
+  },
+  {
+    "description": "Used in 'The Fortnite Show Episode 2: Alpha Liftoff'",
+    "filename": "DubstepMixtape",
+    "mark": "media",
+    "metadata": {
+      "albumArtist": "Various Artists",
+      "artist": "Bustafunk",
+      "title": "Dubstep Mixtape",
+      "year": "2014"
+    },
+    "source": {
+      "client": "YT",
+      "structure": "Trailer",
+      "date": "2014-12-18"
+    },
+    "youtube": "sC6ZRFBPsQ0"
+  },
+  {
     "description": "Used in 'Fortnite Experience Trailer'",
     "filename": "EcstaticSteps",
     "mark": "media",
@@ -17,20 +51,54 @@
     "youtube": "gD8DYVmA6FI"
   },
   {
-    "description": "Used in 'FORTNITE SEASON 5 | ANNOUNCE TRAILER'",
-    "filename": "JoywaveBlastoffff",
+    "description": "Used in 'The Fortnite Show Episode 1: The Fort Awakens",
+    "filename": "HalfpipeTricks",
     "mark": "media",
     "metadata": {
-      "albumArtist": "Joywave",
-      "artist": "Joywave",
-      "title": "Blastoffff",
-      "year": "2018"
+      "albumArtist": "Various Artists",
+      "artist": "Bustafunk",
+      "title": "Ecstatic Steps",
+      "year": "2013"
     },
     "source": {
       "client": "YT",
       "structure": "Trailer",
-      "date": "2018-07-12"
+      "date": "2014-12-03"
     },
-    "youtube": "qSid2ulDL2Q"
+    "youtube": "Nm7o2Kpd_ew"
+  },
+  {
+    "description": "Used in 'Fortnite Art of Monsters: The Husk",
+    "filename": "PromQueen",
+    "mark": "media",
+    "metadata": {
+      "albumArtist": "Various Artists",
+      "artist": "Spreader",
+      "title": "Prom Queen",
+      "year": "2012"
+    },
+    "source": {
+      "client": "YT",
+      "structure": "Trailer",
+      "date": "2014-12-10"
+    },
+    "youtube": "H5ghxazO8n8"
+  },
+  {
+    "description": "Used in 'The Fortnite Show Episode 1: The Fort Awakens",
+    "filename": "PsychSoulRemix",
+    "mark": "media",
+    "metadata": {
+      "albumArtist": "Various Artists",
+      "artist": "Stephan Sechi",
+      "title": "Psychedelic Soul (Remix)",
+      "year": "2014"
+    },
+    "source": {
+      "client": "YT",
+      "structure": "Trailer",
+      "date": "2014-12-03"
+    },
+    "youtube": "l0tkmIarQgE"
   }
 ]
